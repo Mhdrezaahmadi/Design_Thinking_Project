@@ -6,7 +6,7 @@ This repository contains my  academic project for design thinking course (2023-2
 - Details of the project and methodology
 - Implemented version of idea
 
-##Details of the Project 
+## Details of the Project 
 - Project Name: HealthHub
 - In collaboration with Mediclinic Group
 - Main activites: 
@@ -20,4 +20,4 @@ This repository contains my  academic project for design thinking course (2023-2
     interpreters to validate solution feasibility and identify ecosystem dynamics
 
 ## Implemented version of Idea 
-[Linkedin][https://www.linkedin.com/posts/take-control-of-your-health-with-mediclinics-ugcPost-7223568190763593728-XSLl/?utm_source=share&utm_medium=member_android&rcm=ACoAADVdgisB3VjNPgiUFh7nqESl5ynFZ6LZ-ms]
+[Linkedin](https://www.linkedin.com/posts/take-control-of-your-health-with-mediclinics-ugcPost-7223568190763593728-XSLl/?utm_source=share&utm_medium=member_android&rcm=ACoAADVdgisB3VjNPgiUFh7nqESl5ynFZ6LZ-ms)
