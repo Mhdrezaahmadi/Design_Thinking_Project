@@ -1,5 +1,5 @@
 # AI-Driven Primary Care Experience
-This repository contains my  academic project for design thinking course (2023-2024)
+This repository contains my  academic project for design thinking course (2023-2024) at Politecnico di Milano
 
 ## Content 
 - Presentation PDF
